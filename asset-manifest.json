@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fb_login_screen/static/css/main.003b5fed.chunk.css",
-    "main.js": "/fb_login_screen/static/js/main.05b19e52.chunk.js",
-    "main.js.map": "/fb_login_screen/static/js/main.05b19e52.chunk.js.map",
+    "main.js": "/fb_login_screen/static/js/main.2a0b08a8.chunk.js",
+    "main.js.map": "/fb_login_screen/static/js/main.2a0b08a8.chunk.js.map",
     "runtime-main.js": "/fb_login_screen/static/js/runtime-main.01f51267.js",
     "runtime-main.js.map": "/fb_login_screen/static/js/runtime-main.01f51267.js.map",
     "static/js/2.211f987a.chunk.js": "/fb_login_screen/static/js/2.211f987a.chunk.js",
     "static/js/2.211f987a.chunk.js.map": "/fb_login_screen/static/js/2.211f987a.chunk.js.map",
     "index.html": "/fb_login_screen/index.html",
-    "precache-manifest.a9004d51a38248ad053e42d9b4fb0010.js": "/fb_login_screen/precache-manifest.a9004d51a38248ad053e42d9b4fb0010.js",
+    "precache-manifest.43372d7093316fb980f6ccec7f648d59.js": "/fb_login_screen/precache-manifest.43372d7093316fb980f6ccec7f648d59.js",
     "service-worker.js": "/fb_login_screen/service-worker.js",
     "static/css/main.003b5fed.chunk.css.map": "/fb_login_screen/static/css/main.003b5fed.chunk.css.map",
     "static/js/2.211f987a.chunk.js.LICENSE.txt": "/fb_login_screen/static/js/2.211f987a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.01f51267.js",
     "static/js/2.211f987a.chunk.js",
     "static/css/main.003b5fed.chunk.css",
-    "static/js/main.05b19e52.chunk.js"
+    "static/js/main.2a0b08a8.chunk.js"
   ]
 }
