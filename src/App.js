@@ -1,16 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Presentation from "./components/Presentation.js";
+import RegisterAndLogIn from "./components/RegisterAndLogIn.js";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </header>
+    <div className="app">
+      <Presentation title="Connect with friends and the world around you on Facebook"></Presentation>
+      <RegisterAndLogIn></RegisterAndLogIn>
     </div>
   );
 }
