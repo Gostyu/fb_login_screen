@@ -4,19 +4,22 @@ import PrimaryButton from "./PrimaryButton.js";
 import InputField from "./InputField";
 export default function Form({label}){
 
-    return <form>
+    return <Fragment>
         {(label === "Log In") && (
             <Fragment>
-                <label>{label}</label>
+                <form class="">
+                <h1>{label}</h1>
                 <InputField placeholder="Email or Phone"></InputField>
-                <InputField placeholder="Email or Phone"></InputField>
+                <InputField placeholder="Password"></InputField>
             <PrimaryButton title="LogIn"></PrimaryButton>
+            </form>
          </Fragment>)
         }
         {
             (label==="Sign Up") && (
                 <Fragment>
-                <label>{label}</label>
+                
+                <h1>{label}</h1>
                 <InputField placeholder="Email or Phone"></InputField>
                 <InputField placeholder="Email or Phone"></InputField>
             <PrimaryButton title="LogIn"></PrimaryButton>
@@ -24,5 +27,5 @@ export default function Form({label}){
             )
         }
          
-    </form>
+    </Fragment>
 }

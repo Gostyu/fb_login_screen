@@ -6,7 +6,7 @@ import RegisterAndLogIn from "./components/RegisterAndLogIn.js";
 function App() {
   return (
     <div className="app">
-      <Presentation title="Connect with friends and the world around you on Facebook"></Presentation>
+      <Presentation></Presentation>
       <RegisterAndLogIn></RegisterAndLogIn>
     </div>
   );

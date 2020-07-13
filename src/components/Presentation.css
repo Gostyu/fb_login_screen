@@ -1,17 +1,23 @@
 .left_container{
     background-color:#FFFF ;
-    border:1px solid red;
     flex:1;
     height: 100%;
-  }
-.logo{
+    display: flex;
+    flex-direction: column;
+}
+.left_container--logo{
     width: 48px;
     height: 48px;
+    margin: 1rem 0rem 0rem 3rem;
 }
-.container--img{
-    width: 250px;
-    height:250px;
+.left_container--title{
+    /*border:1px solid green;*/
+    margin:3rem 0rem 1.3rem 3rem;
 }
-.container{
-
+.left_container--title h1{
+    margin:0px;
+}
+.left_container--img{
+    width: 350px;
+    align-self: center;
 }
