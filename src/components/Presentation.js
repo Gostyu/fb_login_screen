@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Presentation.css";
-import {ReactComponent as SocialMediaSVG} from "../assets/social_media.svg"
+import {ReactComponent as SocialMediaSVG} from "../social_media.svg"
 export default function Presentation({firstTitle,secondTitle, thirdTitle}) {
     return (<div className="left_container">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"

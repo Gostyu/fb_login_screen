@@ -1,0 +1,19 @@
+.container{
+    background-color:#FFF;
+    padding:0 2rem 2rem 2rem;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+    width: 480px;
+}
+
+.form_body{
+    display: flex;
+    flex-direction: column;
+}
+.bottom_container_title{
+    margin-bottom: 0;
+}
+
+.bottom_container_subtitle{
+    margin-top:0;
+}
