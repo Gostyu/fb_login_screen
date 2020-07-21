@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/fb_login_screen/static/css/main.003b5fed.chunk.css",
-    "main.js": "/fb_login_screen/static/js/main.8d6900c4.chunk.js",
-    "main.js.map": "/fb_login_screen/static/js/main.8d6900c4.chunk.js.map",
+    "main.css": "/fb_login_screen/static/css/main.6e051932.chunk.css",
+    "main.js": "/fb_login_screen/static/js/main.0b511b68.chunk.js",
+    "main.js.map": "/fb_login_screen/static/js/main.0b511b68.chunk.js.map",
     "runtime-main.js": "/fb_login_screen/static/js/runtime-main.01f51267.js",
     "runtime-main.js.map": "/fb_login_screen/static/js/runtime-main.01f51267.js.map",
     "static/js/2.211f987a.chunk.js": "/fb_login_screen/static/js/2.211f987a.chunk.js",
     "static/js/2.211f987a.chunk.js.map": "/fb_login_screen/static/js/2.211f987a.chunk.js.map",
     "index.html": "/fb_login_screen/index.html",
-    "precache-manifest.0fce262329419f68083a15918fde4e8d.js": "/fb_login_screen/precache-manifest.0fce262329419f68083a15918fde4e8d.js",
+    "precache-manifest.5cf221aab48cfcb5ac559ed8a93d1a5f.js": "/fb_login_screen/precache-manifest.5cf221aab48cfcb5ac559ed8a93d1a5f.js",
     "service-worker.js": "/fb_login_screen/service-worker.js",
-    "static/css/main.003b5fed.chunk.css.map": "/fb_login_screen/static/css/main.003b5fed.chunk.css.map",
+    "static/css/main.6e051932.chunk.css.map": "/fb_login_screen/static/css/main.6e051932.chunk.css.map",
     "static/js/2.211f987a.chunk.js.LICENSE.txt": "/fb_login_screen/static/js/2.211f987a.chunk.js.LICENSE.txt",
     "static/media/social_media.e33d247b.svg": "/fb_login_screen/static/media/social_media.e33d247b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.01f51267.js",
     "static/js/2.211f987a.chunk.js",
-    "static/css/main.003b5fed.chunk.css",
-    "static/js/main.8d6900c4.chunk.js"
+    "static/css/main.6e051932.chunk.css",
+    "static/js/main.0b511b68.chunk.js"
   ]
 }
